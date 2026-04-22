@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@better-auth/mongo-adapter": "^1.6.6",
+    "@heroui/react": "^3.0.3",
+    "@heroui/styles": "^3.0.3",
     "better-auth": "^1.6.6",
     "lucide-react": "^0.577.0",
     "mongodb": "^7.2.0",
@@ -19,6 +21,7 @@
     "react-dom": "19.2.3"
   },
   "devDependencies": {
+    "@gravity-ui/icons": "^2.18.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
